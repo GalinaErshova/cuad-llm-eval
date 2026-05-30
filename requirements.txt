@@ -1,0 +1,5 @@
+numpy==2.4.6
+pandas==3.0.3
+psutil==7.2.2
+datasets==3.6.0
+tqdm==4.67.3

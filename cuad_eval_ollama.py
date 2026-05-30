@@ -43,7 +43,7 @@ warnings.filterwarnings("ignore")
 OLLAMA_URL = "http://127.0.0.1:11434/api/generate"
 
 # Режим запуска
-N_EXAMPLES = 2  # кол-во примеров для теста (было 2)
+N_EXAMPLES = 10  # кол-во примеров для теста (было 2)
 SEED = 42
 MAX_CONTEXT_CHARS = 2000
 MAX_NEW_TOKENS = 256
