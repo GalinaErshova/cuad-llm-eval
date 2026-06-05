@@ -2,7 +2,7 @@
 
 ## Цель
 
-Information Extraction из юридических контрактов на датасете **CUAD** через локальный Ollama.
+Извлечение сущностей и событий из набора текстов из юридических контрактов на датасете **CUAD** через локальный Ollama.
 
 Датасет [`theatticusproject/cuad-qa`](https://huggingface.co/datasets/theatticusproject/cuad-qa) в формате Question Answering:
 - `context` — фрагмент юридического контракта
